@@ -1,0 +1,4 @@
+title: Simple Elixir Template
+plan:
+- title: Elixir Snippet
+  statement: statement.md
