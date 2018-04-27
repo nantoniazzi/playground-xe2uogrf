@@ -27,7 +27,7 @@ defmodule Funciones do
    defp redondear(num), do: Float.round(num,2)
 
    defp cadenapantalla(num) do
-    "El resultado es " <> Float.to_string(num) <> " Fahranheit"
+    "El resultado son " <> Float.to_string(num) <> " grados"
    end
   
 end
