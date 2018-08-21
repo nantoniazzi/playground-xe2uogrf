@@ -31,7 +31,7 @@ defmodule Funciones do
    end
   
 end
-
+ 
 Funciones.convertir(:aCel,40)
 Funciones.convertir(:aFah,10)
 
